@@ -1,0 +1,17 @@
+---
+title: "lecture_2019_02_26"
+author: "Alexandra Dobbins"
+date: "2/26/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+
+
+
+```
